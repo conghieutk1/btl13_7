@@ -1,0 +1,4 @@
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\x64\Release\Dictionary.vcxproj.AssemblyReference.cache
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\x64\Release\Dictionary.vcxproj.SuggestedBindingRedirects.cache
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\x64\Release\Dictionary.mainForm.resources
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\x64\Release\Dictionary.vcxproj.GenerateResource.cache

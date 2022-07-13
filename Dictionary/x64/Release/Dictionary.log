@@ -1,0 +1,26 @@
+﻿  Edit.cpp
+  mainForm.cpp
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(189,55): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(204,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(251,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(680,17): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(682,17): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(688,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(690,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(706,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(713,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(749,17): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(753,18): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(755,18): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(793,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(823,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(845,17): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(904,15): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.cpp(7,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  popup.cpp
+  Search1.cpp
+  Search2.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Edit.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Dictionary.vcxproj -> D:\BKHN\Ky_20212\CTDL&DT\BTL_2\x64\Release\Dictionary.exe
