@@ -1,0 +1,47 @@
+  Dictionary.mainForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Dictionary, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Dictionary.Edit: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Dictionary.mainForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Boolean type_sort : Public
+  Methods:
+    TaoData_123(DATA_123*, Int32, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig
+    TaoData_abc(DATA_abc*, Int32, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig
+    display_data(): PrivateScope, Public, HideBySig
+    swap(Int32, Int32): PrivateScope, Public, HideBySig
+    Partition(Int32, Int32): PrivateScope, Public, HideBySig
+    QuickSort(Int32): PrivateScope, Public, HideBySig
+    SelectionSort(Int32, Int32): PrivateScope, Public, HideBySig
+    readFile(String): PrivateScope, Public, HideBySig
+    checkbox(): PrivateScope, Public, HideBySig
+    SearchTVT(vector<DATA_123\,std::allocator<DATA_123> >*, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig
+    SearchTG(vector<DATA_123\,std::allocator<DATA_123> >*, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig
+    BSearchTVT(vector<DATA_abc\,std::allocator<DATA_abc> >*, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, Int32, Int32): PrivateScope, Public, HideBySig
+    BinarySearchTVT(vector<DATA_abc\,std::allocator<DATA_abc> >*, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig
+Class Dictionary.Search1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Dictionary.Search2: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Dictionary.popup: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
