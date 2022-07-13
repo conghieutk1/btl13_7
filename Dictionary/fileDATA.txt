@@ -1,0 +1,115 @@
+[1] txt text.
+[2] gnd ground.
+[3] acc account.
+[4] vn viet nam.
+[5] dh dai hoc.
+[6] gt3 Giai Tich III.
+[7] bcao bao cao.
+[8] qc quang cao.
+[9] wc world cup.
+[10] AC ANH CHI.
+[11] Gonna going to.
+[12] Wanna want to.
+[13] Gotta got a.
+[14] Gimme give me.
+[15] Kinda kind of.
+[16] Lemme let me.
+[17] snvv sinh nhat vui ve.
+[18] ACE anh chi em.
+[19] CMNR com me nau roi.
+[20] COCC con ong chau cha.
+[21] clgt can loi giai thich.
+[22] dz dep trai.
+[23] gato ghen an tuc o.
+[24] hpbd happy birthday.
+[25] mem member.
+[26] nf newfeed.
+[27] nyc nguoi yeu cu.
+[28] pp tam biet.
+[29] p/s tai but.
+[30] stt status.
+[31] atsm ao tuong suc manh.
+[32] any anh nguoi yeu.
+[33] eny em nguoi yeu.
+[34] th thanh hoa.
+[35] hn ha noi.
+[36] sg sai gon.
+[37] vldc vat ly dai cuong.
+[38] avt avatar.
+[39] ik di.
+[40] kg khong.
+[41] ss san sang.
+[42] china trung quoc.
+[43] ctdlgt cau truc du lieu giai thuat.
+[44] ltm ly thuyet mach.
+[45] ckdt cau kien dien tu.
+[46] ppt phuong phap tinh.
+[47] cnxh chu nghia xa hoi.
+[48] tthcm tu tuong Ho Chi Minh.
+[49] gt2 Giai Tich 2.
+[50] gt1 Giai Tich 1.
+[51] ttcb Thuc tap co ban.
+[52] vl vat li.
+[53] aiu anh yeu.
+[54] khum Khong.
+[55] hmu huhuhu.
+[56] BCH Ban Chap Hanh.
+[57] TW Trung Uong.
+[58] ob ong ba.
+[59] lm lam.
+[60] vt viet.
+[61] ng nguoi.
+[62] hk hoc.
+[63] cty cong ty.
+[64] ngta nguoi ta.
+[65] htx hop tac xa.
+[66] tp thanh pho.
+[67] tt tuong tac.
+[68] UBNN Uy ban nhan dan.
+[69] NXB Nha xuat ban.
+[70] Clb Cau lac bo.
+[71] vv van van.
+[72] tr trang.
+[73] LGBT lang gom bat trang.
+[74] GD Giao duc.
+[75] HDNN Hoi dong nhan dan.
+[75] HDNN Hoi dong nhan dan.
+[77] SGL Single bed room.
+[78] SWB Single With Breakfast.
+[79] TWN Twin bed room.
+[80] STD Standard.
+[81] ROH Run of the house.
+[82] SUP Superior.
+[83] PhD Doctor of Philosophy.
+[84] JD Juris Doctor.
+[85] PA Personal Assistant.
+[86] MD Managing Director.
+[87] VP Vice President.
+[88] SVP Senior Vice President.
+[89] EVP Executive Vice President.
+[90] CMO Chief Marketing Officer.
+[91] CFO Chief Financial Officer.
+[92] CEO Chief Executive Officer.
+[93] fb facebook.
+[94] ACC Account.
+[95] ASAP As soon as possible.
+[96] OMG oh my god.
+[97] HUST Bach Khoa Ha Noi.
+[98] NEU kinh te quoc dan.
+[99] FTU Dai Hoc Ngoai Thuong.
+[100] HMU Dai Hoc Y.
+[101] QTKD Quan tri kinh doanh.
+[102] KTQT Kinh te Quoc Te.
+[103] IT cong nghe thong tin.
+[104] ET Dien tu vien thong.
+[105] BKCK Bach Khoa Co Khi.
+[106] TM Tach Mon.
+[107] hobo Hoc Bong.
+[108] UET Dai Hoc Quoc Gia.
+[109] UEB Dai hoc kinh te.
+[110] PTIT Buu chinh vien thong.
+[111] SKDA San Khau Dien Anh.
+[112] 113 canh sat.
+[113] bik biet.
+[114] 114 cuu hoa.
+[115] 115 cuu thuong.
